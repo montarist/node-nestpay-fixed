@@ -36,7 +36,7 @@ function nestpay(value) {
       endpoints3d: {
          test: 'https://testvpos.asseco-see.com.tr/fim/est3Dgate',
          asseco: 'https://entegrasyon.asseco-see.com.tr/fim/est3Dgate',
-         isbank: 'https://vpos3.isbank.com.tr/fim/est3Dgate',
+         isbank: 'https://sanalpos.isbank.com.tr/fim/est3Dgate',
          akbank: 'https://www.sanalakpos.com/fim/est3Dgate',
          finansbank: 'https://www.fbwebpos.com/fim/est3Dgate',
          denizbank: 'https://denizbank.est.com.tr/fim/est3Dgate',
